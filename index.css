@@ -1,0 +1,22 @@
+body {
+    background-color: white;
+}
+nav {
+    background-color: black;
+}
+.navbar-brand{
+    color: white;
+}
+li a {
+    color: white;
+}
+.carousel-inner {
+    width: 36%; 
+    height: auto; 
+    margin-left: auto; 
+    margin-right: auto
+}
+.container {
+    background-color: white;
+    padding-bottom: 10px;
+}
